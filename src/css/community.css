@@ -1,0 +1,103 @@
+.container {
+  width: 1336px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 16px;
+}
+.community-container {
+  display: flex;
+}
+.community-box {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32px;
+}
+.community {
+  background-color: #e0cbb4;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+.community-title {
+  color: #0b0803;
+
+  /* Heading/Desktop/H2 */
+  font-family: Aboreto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%; /* 57.6px */
+  letter-spacing: -0.48px;
+  align-self: stretch;
+  width: 640px;
+  margin-bottom: 24px;
+}
+.community-experience {
+  color: #0b0803;
+  font-family: "Quicksand";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 27px */
+  margin-bottom: 32px;
+}
+.community-text {
+  color: var(--Color-Scheme-1-Text, #0b0803);
+
+  /* Text/Tiny/Normal */
+  font-family: Quicksand;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 18px */
+  align-self: stretch;
+    margin-top: 16px;
+}
+.community-button {
+  color: #fff;
+  font-family: "Quicksand";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 150%; /* 24px */
+  border-radius: 100px;
+  background: #6f4e37;
+  box-shadow: 0px 32px 24px 0px rgba(255, 255, 255, 0.05) inset,
+    0px 2px 1px 0px rgba(255, 255, 255, 0.25) inset,
+    0px 0px 0px 1px rgba(11, 8, 3, 0.15) inset,
+    0px -2px 1px 0px rgba(0, 0, 0, 0.2) inset,
+    0px 1px 2px 0px rgba(11, 8, 3, 0.05);
+  padding: 10px 24px;
+  width: 158px;
+  margin-left: 16px;
+  /* background-image: url(./img/community/chevrons-right.webp);
+  background-repeat: no-repeat;
+  background-position: center; */
+  text-align: start;
+
+}
+.community-input {
+  border-radius: 12px;
+  padding: 8px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(11, 8, 3, 0.15);
+  background: rgba(255, 255, 255, 0);
+  width: 339px;
+  color: rgba(11, 8, 3, 0.6);
+  font-family: "Quicksand";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 24px */
+  
+}
+.button-photo {
+  width: 24px;
+  height: 24px;
+}
+.community-photo {
+  height: 400px;
+  flex: 1 0 0;
+  border-radius: var(--Radius-Large, 40px);
+  background: url(../image/community/placeholder.webp) lightgray 50% / cover
+    no-repeat;
+    margin-top: -50px;
+}
