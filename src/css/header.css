@@ -1,0 +1,41 @@
+
+.header-link-new {
+    display: flex;
+    align-items: center;
+  }
+  .header-logo {
+    width: 84px;
+    height: 36px;
+  }
+  .header {
+    background-color: #e0cbb4;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .header-list {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+      margin-left: 100px;
+  }
+  .header-link {
+    color: #0b0803;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    text-decoration: none;
+  }
+  .container {
+    width: 1350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 16px;
+  }
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
