@@ -27,12 +27,14 @@
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    width: 1312px;
   }
   .visitors__item {
     border-radius: 32px;
     border: 1px solid rgba(11, 8, 3, 0.15);
     background: #c29d84;
     padding: 32px;
+    max-width: 310px;
   }
   .visitors__box {
     height: 215px;
