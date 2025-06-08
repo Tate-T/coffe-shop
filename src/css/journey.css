@@ -37,7 +37,7 @@
 }
 .journey__text {
   color: #0b0803;
-  font-family: Quicksand;
+  font-family: "Quicksand";
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -66,10 +66,10 @@
     align-items: center;
     gap: 12px;
 }
-/* .journey__icon {
+.journey__icon {
   width: 24px;
 height: 24px;
-} */
+}
 .journey__img {
   align-self: stretch;
   aspect-ratio: 16/9;
