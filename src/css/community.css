@@ -47,8 +47,9 @@
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
+   margin-top: 16px;
   line-height: 150%; /* 18px */
-    margin-top: 16px;
+ 
 }
 .community-form {
   display: flex;
