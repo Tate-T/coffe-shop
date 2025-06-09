@@ -1,3 +1,9 @@
+.container {
+  width: 1336px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 12px;
+}
 .footer {
   background: #b58869;
   padding-top: 24px;

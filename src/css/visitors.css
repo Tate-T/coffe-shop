@@ -2,7 +2,7 @@
     width: 1336px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 16px;
+    padding: 0 12px;
   }
 .visitors {
     background: #e0cbb4;
@@ -27,7 +27,6 @@
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
-    width: 1312px;
   }
   .visitors__item {
     border-radius: 32px;
