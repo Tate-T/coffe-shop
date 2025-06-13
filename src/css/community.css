@@ -54,7 +54,7 @@
 .community-form {
   display: flex;
 }
-.community-box:hover {
+.community-button:hover {
   background: #5f422d;
 }
 .community-button {
