@@ -54,6 +54,9 @@
 .community-form {
   display: flex;
 }
+.community-button:hover {
+  background: #5f422d;  
+}
 .community-button {
   color: #fff;
   font-family: "Quicksand";

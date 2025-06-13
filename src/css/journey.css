@@ -51,6 +51,9 @@
   width: 640px;
   margin-bottom: 32px;
 }
+.journey__button:hover, .journey__button:focus {
+  background: #5f422d;
+}
 .journey__button {
   color: #fff;
   width: 181px;

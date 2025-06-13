@@ -39,6 +39,9 @@
   line-height: 150%; /* 27px */
   margin-bottom: 32px;
 }
+.hero-button:hover {
+  background: #5f422d;
+}
 .hero-button {
 
   color: #fff;
