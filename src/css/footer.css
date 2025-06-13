@@ -46,6 +46,9 @@
 }
 .footer__item {
 }
+.footer__link:hover, .footer__link:focus  {
+  text-decoration-line: underline;
+}
 .footer__link {
   color: #0b0803;
   font-family: "Quicksand";
