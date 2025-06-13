@@ -16,8 +16,8 @@
   gap: 32px;
   list-style: none;
 }
-.header-link:hover,
-.header-link:focus {
+.header-link:focus, .header-link:hover
+ {
   text-decoration-line: underline;
 }
 .header-link {
