@@ -43,6 +43,7 @@
   font-size: 48px;
   font-weight: 400;
   margin-bottom: 24px;
+  text-transform: uppercase;
 }
 
 .location-title-description{
@@ -75,6 +76,7 @@
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 8px;
+  text-transform: uppercase;
 }
 
 .location-item-link{
@@ -86,7 +88,7 @@
 
 .location-button{
   color: var(--neutral-darkest-color);
-  font-family: Roboto;
+  font-family: Quicksand;
   font-size: 16px;
   font-weight: 400;
   display: flex;
